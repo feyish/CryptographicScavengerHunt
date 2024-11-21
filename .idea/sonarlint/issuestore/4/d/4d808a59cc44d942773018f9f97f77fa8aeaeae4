@@ -1,0 +1,4 @@
+
+wtypescript:S6582M"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(êÈº
+‡typescript:S6606¼"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(–ğ–ë
+‡typescript:S6606È"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(–ğ–ë
